@@ -1,5 +1,5 @@
 # PowerBI_Global-AI-Layoffs-Analysis-2024-2026
-This study analyses global AI-related layoffs across industries and countries from 2024 to 2026. A Power BI dashboard was developed to vizualise employment trends by comparing AI and non-AI-related layoffs across different industries and countries.
+This study analyses global AI-related layoffs across industries and countries from 2024 to 2025. A Power BI dashboard was developed to visualise employment and layoff trends, comparing AI-related and non-AI-related layoffs across different industries and countries. Additionally, an Exploratory Data Analysis (EDA) was conducted using Python in Jupyter Notebook, covering the period from 2020 to 2025, to provide broader historical insights and support the study.
 
 # Global AI Layoffs & Employment Trends (SDG 8)
 
